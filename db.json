@@ -1,4 +1,4 @@
 {
-  "enabled":false,
-  "message":"Hello World!"
+  "enabled":true,
+  "message":""
 }
